@@ -53,6 +53,54 @@ entropy 0 is the least possible event
 
 try and explore the obvious to less obvious interactively with p5.js interface - markov
 
+```````col
+``````col-md
+flexGrow=1
+===
+> [!info] Callouts
+>  Stuff inside the callout
+>  More stuff inside.
+>> [!ERROR] Error description
+>>  Nested callout
+>>  `````col-md
+>>  - example MD code
+>>  - more stuff
+>>  `````
+``````
+
+``````col-md
+flexGrow=2.5
+===
+# Text annotation example:
+
+`````col
+````col-md
+flexGrow=1
+===
+1. Function name **a** should be more descriptive
+
+2. Remove **if/else** by using **||**
+````
+
+````col-md
+flexGrow=2
+===
+```js
+function a(word) {
+	if (word != null) {
+		console.log(word);
+	} else {
+		console.log("a");
+	}
+}
+let msg = "Hello, world!";
+console.log(msg)
+```
+````
+`````
+``````
+```````
+
 controlla ci sia la mail dei phd
 
 ---
@@ -180,7 +228,7 @@ flowchart LR
 **What is the main purpose of my research?**
 
 ```Mermaid
-%%{init: {'theme':'dark'}}%%
+
 mindmap
   root(PhD)
 	  Aim: Communicating the intangible nature of software execution
@@ -198,7 +246,7 @@ mindmap
 **Which are the obfuscated systems of software?**
 
 ```Mermaid
-%%{init: {'theme':'dark'}}%%
+
 mindmap
   root(Obfuscated Systems)
 	  Cloud Architectures
@@ -214,7 +262,7 @@ mindmap
 **How can we get a sense of software’s hidden work?**
 
 ```Mermaid
-%%{init: {'theme':'dark'}}%%
+
 mindmap
   root(Seeing Through The Machine)
 	  As an end-user: Error, Glitches
