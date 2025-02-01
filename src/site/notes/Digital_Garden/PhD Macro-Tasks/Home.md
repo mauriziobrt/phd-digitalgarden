@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/digital-garden/ph-d-macro-tasks/home/","tags":["research-plan","software","sonification","gardenEntry"]}
 ---
 
-![5adde843-0f94-4b94-a599-e8fce42acd0a.png](/img/user/5adde843-0f94-4b94-a599-e8fce42acd0a.png)
 # Non-verbal communication of invisible information: New methods for communicating complex and inaccessible information through sound[^1]
 
 <div style="column-count: 2;">
