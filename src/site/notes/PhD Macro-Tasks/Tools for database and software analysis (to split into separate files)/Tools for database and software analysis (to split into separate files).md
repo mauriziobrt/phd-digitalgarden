@@ -6,42 +6,9 @@
 
 _Software is fluid, it’s never still, it always moves._
 
---- start-multi-column: ExampleRegion1  
-```column-settings  
-number of columns: 4  
-```
-
-
-- Sequence Mining Techniques
-    
-    - Sequence Pattern Mining (SPM)
-    - Prefix Span Algorithm
-    - Sequential Pattern Discovery Using Sequence Database (SPADE)
-
-
---- end-column ---
-
-- Statistical Methods
-    - Time series analysis
-    - Markov chain modeling
-    - Event correlation analysis
-
---- end-column ---
-
-
-- Machine Learning Approaches
-    - Recurrent Neural Networks (RNNs)
-    - Long Short-Term Memory (LSTM) networks
-    - Temporal Convolutional Networks (TCNs)
-
---- end-column ---
-
-- Trace Analysis Techniques
-    - Event log parsing
-    - Transition matrix creation
-    - Frequency analysis of event sequences
-
---- end-multi-column
+| - Sequence Mining Techniques<br>    - Sequence Pattern Mining (SPM)<br>    - Prefix Span Algorithm<br>    - Sequential Pattern Discovery Using Sequence Database (SPADE)<br> | - Statistical Methods<br>    - Time series analysis<br>    - Markov chain modeling<br>    - Event correlation analysis<br>                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| - Machine Learning Approaches<br>    - Recurrent Neural Networks (RNNs)<br>    - Long Short-Term Memory (LSTM) networks<br>    - Temporal Convolutional Networks (TCNs)<br>  | - Trace Analysis Techniques<br>    - Event log parsing<br>    - Transition matrix creation<br>    - Frequency analysis of event sequences<br> |
 
 https://github.com/huggingface/text-clustering
 

@@ -2,16 +2,17 @@
 {"dg-publish":true,"permalink":"/ph-d-macro-tasks/research-plan/research-plan/"}
 ---
 
+[[Home\|Home]]
 #### Reading
 
-|Name|Author|Tags|Read Status|Review|DOI|
-|---|---|---|---|---|---|
-|[[PhD Macro-Tasks/Research Plan/Reading/Software Takes Command\|Software Takes Command]]|Lev Manovich|Book|Not started|||
-|[[PhD Macro-Tasks/Research Plan/Reading/Programmed Visions\|Programmed Visions]]|||Not started|||
-|[[PhD Macro-Tasks/Research Plan/Reading/Blockchain Farms\|Blockchain Farms]]|||Not started|||
-|[[PhD Macro-Tasks/Research Plan/Reading/Cultural Analytics\|Cultural Analytics]]|Lev Manovich|Book|Not started|||
-|[[PhD Macro-Tasks/Research Plan/Reading/Code-Space- Software and Everyday Life\|Code-Space- Software and Everyday Life]]|||Not started||[https://doi.org/10.7551/mitpress/9780262042482.001.0001](https://doi.org/10.7551/mitpress/9780262042482.001.0001)|
-|[[PhD Macro-Tasks/Research Plan/Reading/https---www.embopress.org-doi-full-10.1038-s44319-024-00230-6\|https---www.embopress.org-doi-full-10.1038-s44319-024-00230-6]]|||Not started|||
+| Name                                                              | Author       | Tags | Read Status | Review | DOI                                                                                                                |
+| ----------------------------------------------------------------- | ------------ | ---- | ----------- | ------ | ------------------------------------------------------------------------------------------------------------------ |
+| [[PhD Macro-Tasks/Research Plan/Reading/Software Takes Command\|Software Takes Command]]                | Lev Manovich | Book | Not started |        |                                                                                                                    |
+| [[PhD Macro-Tasks/Research Plan/Reading/Programmed Visions\|Programmed Visions]]                                            |              |      | Not started |        |                                                                                                                    |
+| [[PhD Macro-Tasks/Research Plan/Reading/Blockchain Farms\|Blockchain Farms]]                                              |              |      | Not started |        |                                                                                                                    |
+| [[PhD Macro-Tasks/Research Plan/Reading/Cultural Analytics\|Cultural Analytics]]                                            | Lev Manovich | Book | Not started |        |                                                                                                                    |
+| [[PhD Macro-Tasks/Research Plan/Reading/Code-Space- Software and Everyday Life\|Code-Space- Software and Everyday Life]]                        |              |      | Not started |        | [https://doi.org/10.7551/mitpress/9780262042482.001.0001](https://doi.org/10.7551/mitpress/9780262042482.001.0001) |
+| [[PhD Macro-Tasks/Research Plan/Reading/https---www.embopress.org-doi-full-10.1038-s44319-024-00230-6\|https---www.embopress.org-doi-full-10.1038-s44319-024-00230-6]] |              |      | Not started |        |                                                                                                                    |
 
   
   
