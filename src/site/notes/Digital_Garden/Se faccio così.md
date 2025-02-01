@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/digital-garden/se-faccio-cosi/","tags":["gardenEntry"]}
 ---
 
-I gatti sono animali. Perchè non lo vede?
+I gatti sono animali. Perchè non lo vede? Vorrei saperlo
