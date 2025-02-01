@@ -2,11 +2,9 @@
 {"dg-publish":true,"permalink":"/ph-d-macro-tasks/tools-for-database-and-software-analysis-to-split-into-separate-files/tools-for-database-and-software-analysis-to-split-into-separate-files/","tags":["software","database","analysis"]}
 ---
 
-  
+  [[Home\|Home]]
 
 _Software is fluid, it’s never still, it always moves._
-
-
 
 --- start-multi-column: ExampleRegion1  
 ```column-settings  

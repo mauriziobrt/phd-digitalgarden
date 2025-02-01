@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ![5adde843-0f94-4b94-a599-e8fce42acd0a.png](/img/user/Assets/5adde843-0f94-4b94-a599-e8fce42acd0a.png)
