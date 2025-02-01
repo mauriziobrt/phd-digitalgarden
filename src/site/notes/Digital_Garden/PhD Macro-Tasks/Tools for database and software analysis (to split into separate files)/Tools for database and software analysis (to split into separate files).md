@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ph-d-macro-tasks/tools-for-database-and-software-analysis-to-split-into-separate-files/tools-for-database-and-software-analysis-to-split-into-separate-files/"}
+{"dg-publish":true,"permalink":"/digital-garden/ph-d-macro-tasks/tools-for-database-and-software-analysis-to-split-into-separate-files/tools-for-database-and-software-analysis-to-split-into-separate-files/","tags":["software","database","analysis"]}
 ---
 
   
@@ -11,9 +11,6 @@ _Software is fluid, it’s never still, it always moves._
     - Sequence Pattern Mining (SPM)
     - Prefix Span Algorithm
     - Sequential Pattern Discovery Using Sequence Database (SPADE)
-    
-      
-    
 
 - Statistical Methods
     - Time series analysis

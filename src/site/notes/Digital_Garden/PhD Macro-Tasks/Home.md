@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/ph-d-macro-tasks/home/","tags":["research-plan","software","sonification","gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/ph-d-macro-tasks/home/","tags":["gardenEntry"]}
 ---
 
 ![5adde843-0f94-4b94-a599-e8fce42acd0a.png](/img/user/5adde843-0f94-4b94-a599-e8fce42acd0a.png)
