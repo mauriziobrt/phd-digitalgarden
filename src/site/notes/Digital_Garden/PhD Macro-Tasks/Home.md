@@ -13,20 +13,5 @@ The objective of this project is to establish novel methods that leverage sound 
 
 #research-plan #software #sonification 
 
-Text displayed above.
-
---- start-multi-column: ExampleRegion1  
-```column-settings  
-number of columns: 2  
-```
-
-Text displayed in column 1.
-
---- end-column ---
-
-Text displayed in column 2.
-
---- end-multi-column
-
 
 [^1]: Here are some extra information in a footnote
