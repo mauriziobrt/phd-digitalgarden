@@ -49,4 +49,4 @@ The distance between two points could indicate the number of shared papers betwe
 
 Phrase database that evolves according to our ongoing interaction with the sonification system, creating an ongoing composition that traces with a sort of memory our path.
 
-[[Bibliometric Sonification Research/Bibliometric Sonification Research\|_]]
+[[Bibliometric Sonification Research/Plan\|_]]
