@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bibliometric-sonification-research/steps/mappings/"}
+{"dg-publish":true,"permalink":"/bibliometric-sonification-research/steps/mappings/","noteIcon":""}
 ---
 
 # Web of Science:

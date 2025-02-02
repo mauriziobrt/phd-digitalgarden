@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analysis/shadow-ai/","tags":["AI"]}
+{"dg-publish":true,"permalink":"/analysis/shadow-ai/","tags":["AI"],"noteIcon":""}
 ---
 
 # Shadow AI

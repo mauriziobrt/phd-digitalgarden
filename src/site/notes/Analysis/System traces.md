@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analysis/system-traces/","tags":["software","traces","cpu"]}
+{"dg-publish":true,"permalink":"/analysis/system-traces/","tags":["software","traces","cpu"],"noteIcon":""}
 ---
 
 ### **How does a CPU work?**

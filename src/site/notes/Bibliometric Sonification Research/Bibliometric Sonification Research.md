@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bibliometric-sonification-research/bibliometric-sonification-research/"}
+{"dg-publish":true,"permalink":"/bibliometric-sonification-research/bibliometric-sonification-research/","noteIcon":""}
 ---
 
 #### Steps

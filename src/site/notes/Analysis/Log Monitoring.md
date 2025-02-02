@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analysis/log-monitoring/","tags":["log","software","AI"]}
+{"dg-publish":true,"permalink":"/analysis/log-monitoring/","tags":["log","software","AI"],"noteIcon":""}
 ---
 
 # Log Monitoring

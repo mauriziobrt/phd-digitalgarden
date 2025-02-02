@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analysis/tools-for-database-and-software-analysis/","tags":["software","database","analysis"]}
+{"dg-publish":true,"permalink":"/analysis/tools-for-database-and-software-analysis/","tags":["software","database","analysis"],"noteIcon":""}
 ---
 
 

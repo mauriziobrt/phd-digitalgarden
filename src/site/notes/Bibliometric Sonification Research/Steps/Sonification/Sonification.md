@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bibliometric-sonification-research/steps/sonification/sonification/"}
+{"dg-publish":true,"permalink":"/bibliometric-sonification-research/steps/sonification/sonification/","noteIcon":""}
 ---
 
 # Experiment 1:

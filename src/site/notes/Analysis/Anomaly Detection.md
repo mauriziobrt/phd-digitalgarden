@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/analysis/anomaly-detection/"}
+{"dg-publish":true,"permalink":"/analysis/anomaly-detection/","noteIcon":""}
 ---
 
 # Anomaly detection

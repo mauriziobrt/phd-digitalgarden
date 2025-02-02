@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/research-plan/research-plan/"}
+{"dg-publish":true,"permalink":"/research-plan/research-plan/","noteIcon":""}
 ---
 
 [[Home\|Home]]
