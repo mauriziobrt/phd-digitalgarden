@@ -3,12 +3,11 @@
 ---
 
 
-
 _Software is fluid, it’s never still, it always moves._
 
-| - Sequence Mining Techniques<br>    - Sequence Pattern Mining (SPM)<br>    - Prefix Span Algorithm<br>    - Sequential Pattern Discovery Using Sequence Database (SPADE)<br> | - Statistical Methods<br>    - Time series analysis<br>    - Markov chain modeling<br>    - Event correlation analysis<br>                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| - Machine Learning Approaches<br>    - Recurrent Neural Networks (RNNs)<br>    - Long Short-Term Memory (LSTM) networks<br>    - Temporal Convolutional Networks (TCNs)<br>  | - Trace Analysis Techniques<br>    - Event log parsing<br>    - Transition matrix creation<br>    - Frequency analysis of event sequences<br> |
+| - Sequence Mining Techniques<br>    - Sequence Pattern Mining (SPM)<br>    - Prefix Span Algorithm<br>    - Sequential Pattern Discovery Using Sequence Database (SPADE)<br>    | - Statistical Methods<br>    - Time series analysis<br>    - Markov chain modeling<br>    - Event correlation analysis<br>                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **- Machine Learning Approaches<br>    - Recurrent Neural Networks (RNNs)<br>    - Long Short-Term Memory (LSTM) networks<br>    - Temporal Convolutional Networks (TCNs)**<br> | **- Trace Analysis Techniques<br>    - Event log parsing<br>    - Transition matrix creation<br>    - Frequency analysis of event sequences**<br> |
 
 https://github.com/huggingface/text-clustering
 
@@ -19,56 +18,6 @@ Transition matrix → between
 entropy 0 is the least possible event
 
 try and explore the obvious to less obvious interactively with p5.js interface - markov
-
-```````col
-``````col-md
-flexGrow=1
-===
-> [!info] Callouts
->  Stuff inside the callout
->  More stuff inside.
->> [!ERROR] Error description
->>  Nested callout
->>  `````col-md
->>  - example MD code
->>  - more stuff
->>  `````
-``````
-
-``````col-md
-flexGrow=2.5
-===
-# Text annotation example:
-
-`````col
-````col-md
-flexGrow=1
-===
-1. Function name **a** should be more descriptive
-
-2. Remove **if/else** by using **||**
-````
-
-````col-md
-flexGrow=2
-===
-```js
-function a(word) {
-	if (word != null) {
-		console.log(word);
-	} else {
-		console.log("a");
-	}
-}
-let msg = "Hello, world!";
-console.log(msg)
-```
-````
-`````
-``````
-```````
-
-controlla ci sia la mail dei phd
 
 ---
 
@@ -128,7 +77,7 @@ It’s a microscopic process, a top-down approach to explore how do these things
 
 syscall_slow_exit_work stands at the assembly level? But no, it is a kernel function in linux, and linux is built in C. Which in the graph should be Compiled/Intermediate language.
 
-```Mermaid
+```mermaid
 flowchart LR
     id1(High-Level Programming Language) --> id5(Compiled/Intermediate Language) --> id2(Machine Code - 00101 specific to CPU architecture) --> id3(Microcode - Low Level Firmware CPU) --> id6(Transistor-Level Operations) --> id7(Quantum/Electron Level)
 ```
@@ -172,9 +121,9 @@ Create a graphical representation, for the sake of simplicity the vertical space
 
 Dall’analisi delle transizioni sembra possa essere interessante creare una mappa indicando quanto é probabile che un evento segua l’altro.
 
-```Mermaid
-flowchart LR
-    id1[(Sequence from software traces)] --> id5(((One hot encoding))) --> id2(Extract Patterns and create a hierarchy) --> id3(Visualize and sonify the patterns)
+```mermaid
+	flowchart LR
+	    id1[(Sequence from software traces)] --> id5(((One hot encoding))) --> id2(Extract Patterns and create a hierarchy) --> id3(Visualize and sonify the patterns)
 ```
 
   
@@ -183,7 +132,7 @@ flowchart LR
 
   
 
-```Mermaid
+```mermaid
 flowchart LR
     id1[(Sequence from software traces)] --> id5((Embedding in P5)) --> id2(Sonification using Webaudio)
 ```
@@ -194,8 +143,8 @@ flowchart LR
 
 **What is the main purpose of my research?**
 
-```Mermaid
-
+```mermaid
+%%{init: {'theme':'dark'}}%%
 mindmap
   root(PhD)
 	  Aim: Communicating the intangible nature of software execution
@@ -205,15 +154,12 @@ mindmap
 		  (Retrieval of Hidden Processes Data - employ dynamic analysis to collect software traces that serve as raw material for revealing software execution)
 		  (Dataset Analysis)
 			  (Sequential Analysis)
-		
-    
-
 ```
 
 **Which are the obfuscated systems of software?**
 
-```Mermaid
-
+```mermaid
+%%{init: {'theme':'dark'}}%%
 mindmap
   root(Obfuscated Systems)
 	  Cloud Architectures
@@ -228,8 +174,8 @@ mindmap
 
 **How can we get a sense of software’s hidden work?**
 
-```Mermaid
-
+```mermaid
+%%{init: {'theme':'dark'}}%%
 mindmap
   root(Seeing Through The Machine)
 	  As an end-user: Error, Glitches
