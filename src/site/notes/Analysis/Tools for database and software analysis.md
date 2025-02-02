@@ -146,4 +146,4 @@ Kate Crawford is interested in materializing the system and showing its true imp
 [[Analysis/Anomaly Detection\|Anomaly Detection]]
 [[Analysis/System traces\|System traces]]
 
-[[Home\|_]]
+[[i. home\|_]]
