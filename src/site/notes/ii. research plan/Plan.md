@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ii-research-plan/plan/","noteIcon":""}
 ---
 
-[[i. home\|i. home]]
+[[i. home/androne\|androne]]
 #### Reading
 
 | Name                                                              | Author       | Tags | Read Status | Review | DOI                                                                                                                |
