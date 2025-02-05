@@ -11,3 +11,7 @@ http://computationalculture.net/envisioning-a-technological-humanism-a-review-of
 
 
 https://www.e-flux.com/journal/78/82706/digital-objects-and-metadata-schemes/
+
+_Ontology in the context of the internet is often associated with the inventor of the World Wide Web, Tim Berners-Lee, and his term “semantic web,” a set of standards for data formats and exchange protocols._
+
+_The internet as a public realm that the engineering class takes for granted has all but disappeared, leaving no space to implement experimentation on the fundamental (indeed ontological) level. This raises the question of whether ontological adventures such as this one can be successful without a political angle._
